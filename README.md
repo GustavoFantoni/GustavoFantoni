@@ -30,8 +30,9 @@
  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoFantoni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
- <p style="font-size: 24px; color: #ff00aa; background-color: #00ffaa; padding: 10px; border-radius: 10px;">
-    É os guri
+ <p>
+    É os guri 🚀
+    it's the guys 🟩🟨🟦
 </p>
 
 
