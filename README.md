@@ -6,7 +6,7 @@
 ## 📫 How to reach me: gustavo.rosario@unifebe.edu.br
 
 ## Ferramentas e Tecnologias
-
+<div>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="30" height="30" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" height="30"/>
