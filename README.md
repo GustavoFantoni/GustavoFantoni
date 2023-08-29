@@ -8,7 +8,7 @@
 <hr>
 
 ## Ferramentas e Tecnologias
-<div>
+<div style="display: flex; justify-content: space-around">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="30" height="30" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" height="30"/>
