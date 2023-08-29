@@ -7,7 +7,7 @@
 
 <hr>
 
-## Ferramentas e Tecnologias
+## Tools and Technologies 💻
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
@@ -29,6 +29,12 @@
  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFantoni&layout=compact&langs_count=7&theme=dracula"/>
  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoFantoni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+ <p style="font-size: 24px; color: #ff00aa; background-color: #00ffaa; padding: 10px; border-radius: 10px;">
+    É os guri
+</p>
+
+
 
 
 
