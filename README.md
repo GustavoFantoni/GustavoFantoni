@@ -17,8 +17,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 </div>
-            
-   ![Snake animation](https://github.com/GustavoFantoni/GustavoFantoni/blob/output/github-contribution-grid-snake.svg)
+  
 <hr>
   <div>
             <a href = "mailto:gustavo.rosario@unifebe.edu.br"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
