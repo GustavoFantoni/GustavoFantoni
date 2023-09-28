@@ -4,7 +4,6 @@
 ### 🌱 I’m currently learning Java Script
 ### 👯 I’m looking to collaborate on Frontend
 ### 📫 How to reach me: gustavo.rosario@unifebe.edu.br
-
 <hr>
 ## Tools and Technologies 💻
 <div>
