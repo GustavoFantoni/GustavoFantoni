@@ -1,11 +1,4 @@
- ## 👋 Hello! Welcome to my Github profile.
- ### My name is Gustavo Fantoni!
-
-### 🌱 I’m currently learning Java Script
-### 👯 I’m looking to collaborate on Frontend
-### 📫 How to reach me: gustavo.rosario@unifebe.edu.br
-<hr>
-## Tools and Technologies 💻
+ 
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
